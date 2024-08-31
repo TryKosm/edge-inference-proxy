@@ -1,4 +1,6 @@
-# edge-inference-proxy
+# Edge Inference Proxy
+
+Rust edge proxy with route fallback and timeout handling.
 
 ![CI](https://github.com/TryKosm/edge-inference-proxy/actions/workflows/ci.yml/badge.svg)
 
